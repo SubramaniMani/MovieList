@@ -1,0 +1,3 @@
+com\mani\model\Movie.class
+com\mani\movie\controller\MovieListController.class
+com\mani\movie\MovieListApplication.class
